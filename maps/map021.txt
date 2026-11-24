@@ -1,0 +1,8 @@
+XCC X CCCX  
+X  XCX CCX X
+ XS  C    XC
+XCC  CCX CXC
+CXX C C XX  
+CXX X C  CXC
+  CX X C  XX
+ CCCXC  X   

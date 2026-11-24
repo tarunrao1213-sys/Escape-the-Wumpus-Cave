@@ -1,0 +1,8 @@
+C-X  A  C CX
+C | CXX| CW 
+WX   CXX  CC
+WWWCXXXCX  C
+ |C X | C WW
+C WSWC C CCX
+XXXC  C X -W
+C  WX WCXXXC
