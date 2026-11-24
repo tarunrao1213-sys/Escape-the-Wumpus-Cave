@@ -1,0 +1,8 @@
+-X X|XXX -X 
+X XXXX  | XX
+ XX XX  X XX
+|XXX | X XX 
+ XXX- XX- X|
+-XXXS      X
+XX XX |XXXXX
+XX X|XX  |  
